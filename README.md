@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtayyab03&label=Profile%20views&color=0e75b6&style=flat" alt="mtayyab03" /> </p>
 
 
-- 🌱 I’m currently learning **React, Firebase**
+- 🌱 I’m currently learning **AI,Data Analytics**
 
-- 💬 Ask me about **Hybrid Mobile Apps**
+- 💬 Ask me about **Websites,SAAS,Mobile Apps and AI**
 
 - 📫 How to reach me **mtayyab56785@gmail.com**
 
