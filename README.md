@@ -7,7 +7,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
 <h3 align="center">"App development, where creativity meets technology"</h3>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mtayyab03&label=Profile%20views&color=0e75b6&style=flat" alt="mtayyab03" />
+</p>
 - 🌱 I’m currently learning **AI,Data Analytics**
 
 - 💬 Ask me about **Websites,SAAS,Mobile Apps and AI**
