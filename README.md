@@ -1,8 +1,8 @@
-![MasterHead]<p align="center">
+<p align="center">
   <img 
     src="https://media.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif" 
     alt="Coding GIF"
-    width="100%"
+    width="40%"
   />
 </p>
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
