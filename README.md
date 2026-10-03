@@ -2,14 +2,11 @@
   <img 
     src="https://media.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif" 
     alt="Coding GIF"
-    width="30%"
+    width="25%"
   />
 </p>
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
 <h3 align="center">"App development, where creativity meets technology"</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c7e2ca28de4726d848194ebbb60d6f91ff1188a781fb370e0aa8dab942cc9c50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313637302f312a5a53566d57476363317765454e6230536861775778772e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtayyab03&label=Profile%20views&color=0e75b6&style=flat" alt="mtayyab03" /> </p>
-
 
 - 🌱 I’m currently learning **AI,Data Analytics**
 
