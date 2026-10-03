@@ -2,7 +2,7 @@
   <img 
     src="https://media.giphy.com/media/pbIavlMZE7TkcVriMM/giphy.gif" 
     alt="Coding GIF"
-    width="40%"
+    width="30%"
   />
 </p>
 <h1 align="center">Hi 👋, I'm Tayyab</h1>
